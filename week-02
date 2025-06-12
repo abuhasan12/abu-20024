@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        </header>
+
+
+<main>
+
+<th colspan="3">A basic html table</th>
+
+<table border="3 px" solid black>
+<tr>
+<th>Company</th>
+<th>Contact</th>
+<th>Country</th>
+    </tr>
+
+    <tr>
+<td>Tesla</td>
+<td>Musk</td>
+<td>USA</td>
+        </tr>
+
+           <tr>
+<td>Tesco</td>
+<td>Hasan</td>
+<td>Bangladesh</td>
+        </tr>
+
+   <tr>
+<td>Apple</td>
+<td>Dravid</td>
+<td>Finland</td>
+        </tr>
+    </table>
+<h2>It is a order list</h2>
+    <ol>
+      <li>Tesla</li>
+      <li>Tesco</li>
+      <li>Apple</li>
+        </ol>
+
+
+<h2>It is a unorder list</h2>
+    <ul>
+      <li>Tesla</li>
+      <li>Tesco</li>
+      <li>Apple</li>
+    </ul>
+
+    </main>
+
+
+
+
+
+        <footer>
+
+            </footer>
+</body>
+</html>
